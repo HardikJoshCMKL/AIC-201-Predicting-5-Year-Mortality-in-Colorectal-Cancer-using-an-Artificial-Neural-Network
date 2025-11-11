@@ -1,0 +1,428 @@
+case_id,died_within_5_years,days_till_death,crc_primary_cause_of_death,age_at_diagnosis,sex,site_of_tumour,site_of_tumour_grouping,kras_ex_2,kras_ex_3,kras_codon_117,nras_ex_2,nras_ex_3,braf_mutant_status,mmr_ihc,mmr_loss_binary,primary_metastatic,stage,stage_subgroup,pT,pN,pM,tumour_type,differentiation,peri_surface_involved,distance_to_peritoneum_macroscopic_measurement,em_lvi,em_lvi_notes,pre-op_radio,pre-op_chemo
+001,1,711,,91,F,lower rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,NX,MX,,,,,,Intramural venous,,
+003,1,650,,82,M,sigmoid,sigmoid colon,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,,1mm,N,,-,-
+004,NULL,NULL,,43,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,Mx,A/C,Mod,N,Not assessed,N,,-,-
+006,0,Alive,,58,F,sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,MX,A/C,Mod,N,4mm,N,Intramural venous,-,-
+007,1,1884,,64,M,rectosigmoid,rectum,WT,WT,WT,WT,FAIL,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,,Y,Venous,-,-
+010,0,Alive,,79,F,caecum,caecum,M (G12C),WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1mm,N,,-,-
+013,0,Alive,,76,M,rectosigmoid,rectum,WT,M (Q61R),WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,>5mm,N,,Y,N
+014,0,Alive,,73,F,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,8mm,N,Intramural venous,N,-
+015,1,365,,67,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,ypT2,N0,,A/C,Mod,N,,N,,N,Y
+016,0,Alive,,75,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,,N,,-,-
+017,1,1852,,78,F,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C (focally mucinous),Mod,N,1.5mm,N,,-,-
+018,1,215,,76,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,N,Not assessed,N,,N,Y
+019,0,Alive,,70,M,lower rectum,rectum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C (medullary like features),Poor (areas of moderate),Not identified,>10mm,N,,N,Y
+020,0,Alive,,58,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,,N,Intramural venous,Y,N
+022,0,Alive,,63,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C (mucinous),Mod,N,0.4mm,N,Intramural venous,-,-
+024,0,Alive,,43,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.6mm,Y,Lymphatic,-,-
+027,1,872,1,65,F,caecum,caecum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C (mucinous),Well (focally mod),Y,,N,,-,-
+028,1,1627,1,61,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.8mm,Y,Venous,N,N
+030,0,Alive,,69,F,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,2,2A,pT3,N0,,A/C (mucinous),Mod,N,Approx 6mm,Not identified,,-,-
+032,0,Alive,,64,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,,Y,Venous,-,-
+033,0,Alive,,71,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1.6mm,N,,-,-
+034,0,Alive,,83,M,caecum,caecum,WT,WT,WT,WT,FAIL,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod (focally poor),N,0.6mm,N,Intramural venous,-,-
+035,0,Alive,,63,M,rectosigmoid,rectum,M (G12D),WT,FAIL,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,2mm,N,,-,-
+036,0,Alive,,75,F,sigmoid colon,sigmoid colon,M (G12A),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,6mm,N,Intramural venous,-,-
+037,1,297,1,80,F,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod,Y,0mm,Y,venous invasion,-,-
+038,0,Alive,,87,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,Not measured,N,Suspicious foci of lynphatic invasion,-,N
+039,0,Alive,,60,F,left colon,descending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT2,N2,,A/C,Mod (foci of poor at invasive front),Not identified,3mm,N,,-,-
+040,0,Alive,,67,M,transverse colon,transverse colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C (mucinous),Poor,N,2.5mm,N,,-,-
+041,1,708,,74,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E) - LOW LEVEL ,NO LOSS,0,P,3,3B,pT3,N1,,A/C (mucinous with signet ring differentiation),Poor,N,1.75mm,N,,-,-
+042,0,Alive,,82,F,caecum,caecum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Well,N,0.7mm,N,,-,-
+043,0,Alive,,49,M,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C (mucinous),Mod,N,4mm,N,,N,N
+044,1,510,,85,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C,Mod (focally poor),N,0.5mm,Y,Venous,-,-
+046,0,Alive,,76,F,rectum,rectum,WT,WT,WT,WT,FAIL,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod (predominantly),Not identified,>10mm,N,Intramural venous,-,-
+047,0,Alive,,58,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,Not identified,0.2mm,N,focal perineural infiltration present,-,-
+049,0,Alive,,66,F,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,Not measured,N,,N,N
+050,1,945,1,85,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<0.5mm,Y,Extramural lymphatic and intramural venous,-,-
+051,0,Alive,,55,M,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,ypT1,N0,,A/C,Poor,N,,N,,Y,N
+052,0,Alive,,66,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,3mm,N,,-,-
+056,0,Alive,,78,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,0.5mm,N,Intramural venous,-,-
+057,0,Alive,,57,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,pN1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+058,1,536,1,74,F,distal sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,0.6mm,Y,Venous,-,-
+060,0,Alive,,75,M,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,ypT2,N0,,A/C,Mod,N,35mm,N,,N,Y
+062,0,Alive,,65,M,rectosigmoid,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,pN0,,A/C (focally mucinous),Mod,N,Well clear,N,Intramural venous,-,-
+063,1,9,,80,M,transverse colon,transverse colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C (mucinous),Mod,Y,0mm,Y,Venous,-,-
+065,1,1643,1,77,F,ascending/transverse colon,transverse colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C (mucinous component),Mod,N,0.3mm,N,,-,-
+066,1,350,1,62,F,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,0.15mm,N,Intramural venous,-,-
+067,0,Alive,,61,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.4mm,Y,Venous ,-,-
+069,0,Alive,,79,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,<0.1mm,Y,Venous,-,-
+070,0,Alive,,54,F,rectum,rectum,WT,WT,WT,WT,M (Q61L),WT,NO LOSS,0,P,3,3A,pT1,N1,,A/C,Mod,N,,N,Intramural venous,N,N
+072,0,Alive,,69,M,rectum,rectum,WT,WT,FAIL,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,50mm,N,,Y,N
+074,0,Alive,,72,M,rectum,rectum,WT,M (Q61L),WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,Not assessed,N,Intramural venous,-,-
+075,0,Alive,,69,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,1.4mm,Y,Venous,-,-
+078,0,Alive,,92,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>10mm,Y,Venous,-,-
+079,0,Alive,,56,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,7.4mm,N,,-,-
+080,1,1867,,80,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,0.01mm,N,,-,-
+081,0,Alive,,67,M,rectosigmoid,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT1,N1,,A/C,Mod,N,15mm,N,,-,-
+082,1,201,1,53,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4a,N0,,A/C,Poor (some mod regions with medullary features),Y,0mm,Y,Venous,-,-
+083,1,320,1,71,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+084,1,212,1,72,F,caecum,caecum,WT,M (Q61L),WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,M1,A/C,Poor,Y,0mm,Y,,-,-
+085,0,Alive,,59,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT1,N0,,A/C,Mod,Absent,15mm,N,Intramural venous,-,-
+086,0,Alive,,52,M,hepatic flexure,hepatic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1mm,N,,-,-
+087,0,Alive,,61,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,2,2B,pT4,N0,,A/C (mucinous),Mod,Y,Not applicable,N,,-,-
+088,0,Alive,,81,F,sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.3mm,N,,-,-
+091,1,350,1,77,F,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,<1mm,N,,-,-
+092,0,Alive,,70,F,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,3,3B,pT3,N1,,A/C,Poor,N,3.5mm,Y,Venous,-,-
+094,0,Alive,,54,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,>5mm,N,,-,-
+095,0,Alive,,51,F,sigmoid colon,sigmoid colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT1,N1,,A/C,Mod,N,,N,Intramural venous,-,-
+096,0,Alive,,58,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,3.5mm,N,,N,N
+097,0,Alive,,39,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,5mm,N,,-,-
+098,1,1188,1,75,M,caecum,caecum,WT,WT,WT,WT,M (Q61L),WT,NO LOSS,0,P,3C,3C,pT4b,pN2,,A/C,Mod,Y,0mm,Y,Lymphatic and venous,-,-
+099,1,1096,,74,M,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,,,Y,Venous and lymphatic invasion,N,N
+100,1,158,1,59,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Poor,N,<1mm,Y,,-,-
+103,0,Alive,,60,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Poor,N,30mm,Y,Venous,Y,N
+104,0,Alive,,70,M,hepatic flexure,hepatic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,pN1,,A/C,Mod,N,>5mm,Y,Venous,-,-
+105,0,Alive,,65,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,<1mm,N,,-,-
+106,0,Alive,,67,M,sigmoid colon,sigmoid colon,WT,WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<1mm,Y,Venous,-,-
+107,0,Alive,,80,F,transverse colon,transverse colon,M (G12A),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,pN1,,A/C,Mod,N,0.1mm,Y,Venous,-,-
+108,1,2282,,75,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N (N/A),,N,,-,N
+109,1,160,1,78,M,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,3,3B,ypT3,N1,,A/C,Mod,Not identified,>10mm,Y,Perineural infiltration,-,-
+110,1,576,,43,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,Multifocal A/C,Well to Mod (mucinous component),N,5mm,Y,Lymphatic and intramural venous,-,-
+112,0,Alive,,58,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod (leading edge poor with tumour budding),Y,0mm,N,,-,-
+113,0,Alive,,80,M,distal sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,2.2mm,N,Intramural venous,-,-
+114,1,1433,1,80,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod to Poor,Y,0mm,Y,Lymphatic and venous,-,-
+117,0,Alive,,59,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,Not identified,4mm,N,,-,-
+119,0,Alive,,57,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Poor,Y,0mm,Y,Lymphatic and intramural venous,-,-
+122,0,Alive,,68,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,2.2mm,N,Suspicious of intramural venous,-,-
+123,1,32,1,86,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C,Mod,Y,0mm,Y,,-,-
+126,1,1150,1,72,F,sigmoid colon,sigmoid colon,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Poor,Y,0mm,Y,Venous,-,-
+127,0,Alive,,59,M,rectosigmoid,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,ypN0,,A/C,Mod,N,0.6mm,N,,N,Y
+128,0,Alive,,57,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,15mm,N,,Y,N
+129,0,Alive,,54,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,0.3mm,Y,Venous,-,-
+130,0,Alive,,59,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N0,cM1,A/C,Mod,N,18mm,N,,Y,N
+131,1,394,1,60,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,M (V600E)  ,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod (areas of poor),Y,(involvement of serosa),Y,Venous and Lymphatic,-,-
+132,0,Alive,,52,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,,Y,Venous,Y,N
+133,1,236,,59,F,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT4b,Nx,M1,A/C,Mod,Y,0mm,Y,Venous,-,-
+135,0,Alive,,49,F,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C (mucinous and signet ring component),Poor,Y,0mm,Y,Lymphatic,-,-
+136,0,Alive,,64,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,<1mm,N,,-,-
+138,0,Alive,,76,F,rectosigmoid,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,>10mm,N,,-,N
+140,0,Alive,,61,M,sigmoid colon,sigmoid colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,1mm,N,Intramural venous,-,-
+142,0,Alive,,63,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+144,0,Alive,,82,F,ascending colon,ascending colon,M (G12A),WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,1.3mm,N,,-,-
+145,0,Alive,,73,F,descending/sigmoid junction??,descending colon,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (villous adenoma like),Well,N,>2mm,N,,-,-
+147,0,Alive,,68,F,rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,pN1,,A/C,Mod,N,0.9mm,Y,Vascular,-,-
+148,0,Alive,,63,M,splenic flexure,splenic flexure,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT2,N2,,A/C,Mod,N,4mm,N,,-,-
+149,0,Alive,,76,M,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT1,N1,,A/C,Mod,N,Not applicable,N,,-,-
+150,0,Alive,,75,F,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,25mm,Y,,Y,N
+152,1,1113,,81,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C,Mod,Y,0mm,N,Intra or extramural venous,-,-
+154,0,Alive,,73,M,proximal descending colon,descending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,4.8mm,N,,-,-
+155,0,Alive,,60,M,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.35mm,Y,"Lymphatic, single focus extramural ",-,-
+157,0,Alive,,62,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,N,Not measured,Not identified,,-,-
+160,0,Alive,,50,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Mod,N,1.3mm,N,,-,-
+164,1,56,1,58,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3C,3C,pT3,pN2,,A/C,Mod,N,1mm,Y,,-,-
+165,0,Alive,,65,M,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,1,1,pT1,N0,,A/C,Mod,N,6mm,N,Intramural venous,-,-
+166,1,1476,1,62,M,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+168,1,1220,,83,F,caecum/ascending colon,caecum,WT,WT,WT,WT,WT,M (V600E) - LOW LEVEL ,"MLH1, PMS2 LOSS",1,P,2,2A,pT3,pN0,,A/C (mucinous),Poor,N,0.35mm,N,,-,-
+169,0,Alive,,61,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,Y,N
+170,0,Alive,,82,M,proximal ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,3,3B,pT3,N1,,A/C (mucinous),Mod,N,0.2mm,N,,-,-
+172,0,Alive,,66,F,lower caecum,caecum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,2,2A,pT3,N0,,A/C (mucinous),Mod,N,1.0mm,N,,-,-
+174,1,1454,1,85,F,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.2mm,Y,Venous,-,-
+175,0,Alive,,51,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,1.4mm,N,,-,-
+176,1,1714,,83,F,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C,Well,N,0.3mm,N,,-,-
+177,0,Alive,,46,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,ypT3,N1,,A/C,Mod,N,0.2mm,Y,Venous,N,Y
+178,0,Alive,,66,F,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod (small focus of mucinous differentiation and small foci of poor),N,0.3mm,N,,-,-
+179,1,1298,1,60,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,4,4,pT4b,N2,M1,A/C,Mod,Y,0mm,Y,Lymphatic,-,-
+180,0,Alive,,59,F,rectum,rectum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,,N,Intramural venous,N,N
+181,0,Alive,,51,M,caecum,caecum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,14mm,Y,,-,-
+182,0,Alive,,60,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,<1mm,N,,-,-
+184,0,Alive,,61,F,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>5mm,N,,N,N
+187,0,Alive,,47,F,rectum,rectum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4a,N1,,A/C (Mucinous),Mod,??,Not visualised however crossed to invade ovary,Not identified,,N,N
+188,1,295,1,83,M,hepatic flexure,hepatic flexure,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod (focally poor),Y,0mm,Y,Lymphatic and venous,-,-
+189,0,Alive,,48,F,lower rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,ypT3,ypN2,,A/C,Mod (focally poor),N,Not measured,Y,Venous,N,Y
+190,0,Alive,,78,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT2,N2,,A/C,Mod,N,4mm,N,Perineural infiltration,-,-
+191,0,Alive,,76,F,distal sigmoid colon,sigmoid colon,M (G12A),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,N,,-,-
+192,0,Alive,,62,F,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,0.9mm,Y,,N,N
+195,1,1197,1,76,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<1mm,Y,Venous,-,-
+196,0,Alive,,76,F,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,0.15mm,N,,-,-
+197,0,Alive,,63,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod (some foci of poor),N,5mm,N,,N,N
+198,0,Alive,,69,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,Not identified,0.4mm,Y,Venous,-,-
+200,0,Alive,,67,F,transverse colon,transverse colon,WT,WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C (mucinous component),Mod,N,0.7mm,N,,-,-
+201,0,Alive,,78,F,transverse colon,transverse colon,WT,M (G60V),WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.2mm,Y,Venous,-,-
+202,0,Alive,,55,M,descending colon,descending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,Clear,Y,Venous,-,-
+205,1,193,1,74,M,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Poor,Y,0mm,Y,Venous,-,-
+206,0,Alive,,67,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,PMS2 LOSS,1,P,3,3B,pT4b,N1,,A/C,Mod (some areas of poor),Y,0mm,Y,Venous,-,-
+208,NULL,NULL,,68,F,descending colon,descending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,Y,Venous,-,-
+209,0,Alive,,61,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>5mm,N,,-,-
+210,1,664,1,74,F,transverse colon,transverse colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<1mm,N,,-,-
+211,1,818,1,61,M,sigmoid colon,sigmoid colon,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Well,Y,0mm,Y,Venous and Lymphatic,-,-
+212,1,323,1,69,M,distal descending colon,descending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,Y,Venous,-,-
+213,0,Alive,,77,M,rectum,rectum,WT,WT,WT,M (G12D),WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,-,N,,N,N
+214,1,1154,1,72,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Poor,N,8.5mm,Y,Lymphatic and venous,-,-
+216,1,198,1,76,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2B,pT4b,N0,,A/C (Mucinous),Mod,Y,0.01mm,N,,-,-
+220,1,1012,1,83,F,sigmoid colon,sigmoid colon,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,Y,Venous,-,-
+221,0,Alive,,50,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,8mm,Y,Venous,-,-
+224,1,643,1,70,M,descending colon,descending colon,M (G12D),WT,WT,WT,WT,M (V600E) - LOW LEVEL ,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Lymphatic not venous,-,-
+227,0,Alive,,77,M,caecum,caecum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4a,N2,,A/C,Mod,N,-,N,,-,-
+230,0,Alive,,84,F,ascending colon,ascending colon,WT,M (Q61K),WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C,Poor,N,0.2mm,N,,-,-
+231,1,192,1,86,F,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,3,3B,pT4b,N1,M1,A/C (Mucinous),Poor,Y,-,Y,Venous,-,-
+232,0,Alive,,62,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,N,>10mm,Y,focal perineural infiltration also seen,N,Post DXT (docetaxel) (long course)
+233,1,721,1,76,M,caecum,caecum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C (Mucinous),Mod (focally poor),Y,0mm,Y,Venous,-,-
+234,0,Alive,,65,F,distal sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,pN0,,A/C,Mod,N,2.5mm,N,,-,-
+235,0,Alive,,57,M,rectum,rectum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,,-,N,,-,-
+236,0,Alive,,63,M,caecum,caecum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,MX,A/C,Mod,Not identified,0.2mm,N,focus of smucosal lymphocapillary space invasion present,-,-
+237,0,Alive,,80,M,descending colon,descending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod (small areas of poorly differentiated),N,0.5mm,Y,,-,-
+238,1,493,,81,F,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,1.2mm,N,,N,N
+239,1,316,1,89,M,caecum,caecum,M (G12D),WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+240,0,Alive,,64,M,rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,2mm,N,Intramural venous invasion present,N,N
+241,0,Alive,,53,M,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,N,-,Y,Venous,-,Y
+242,0,Alive,,57,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,0.2mm,N,,N,N
+244,0,Alive,,61,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT1,N0,,A/C,Mod,N,,Not identified,,N,N
+245,1,515,,70,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<1mm,N,,-,-
+247,1,1367,,81,M,rectum,rectum,WT,WT,WT,WT,M (Q61K),WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,6mm,N,,N,N
+248,0,Alive,,54,F,sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,18mm,N,,-,-
+249,0,Alive,,63,M,,,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C,Mod,Y,0mm,Probable,,-,-
+250,1,1053,,42,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,MX,A/C,Mod,N,>10mm,N,,N,N
+252,0,Alive,,71,M,rectum,rectum,WT,M (Q61R),WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C (prominent mucinous differentitation),Mod,N,0.6mm,N,,-,-
+253,0,Alive,,59,M,transverse colon,transverse colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod (focal poor at invasive front),Not identified,0.3mm,Y,Lyphatic,-,-
+255,0,Alive,,71,M,sigmoid colon,sigmoid colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1mm,N,,-,-
+256,0,Alive,,63,M,rectum,rectum,WT,WT,WT,M (G12D),WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,-,N,,-,-
+259,0,Alive,,75,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C (mucinous component),Mod,N,3.3mm,N,,-,-
+260,1,331,,79,M,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C (mucinous component),Mod (some areas of poor),Y,-,Y,Venous focal perineural infiltration also ,-,-
+262,1,638,1,73,F,ascending colon,ascending colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N1,cM1?,A/C,Mod,N,0.3mm,N,,-,-
+263,0,Alive,,53,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,-,0.5mm,N,Focal lymphocapillary space invasion noted. ,-,-
+264,0,Alive,,83,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,-,0.3mm,N,Intramural venous,-,-
+265,1,230,1,75,F,transverse colon,transverse colon,FAIL,FAIL,WT,FAIL,FAIL,M (V600E),NO LOSS,0,P,4,4,ypT3,N0,M1,A/C,Mod,N,2mm,N,Intramural venous ,-,-
+267,1,1261,1,77,M,lower rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,-,Y,Venous,N,N
+268,1,360,1,59,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,venous,-,-
+269,0,Alive,,61,F,descending colon,descending colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,2.7mm,Y,Venous,-,-
+270,1,233,1,70,F,descending colon,descending colon,WT,WT,WT,WT,WT,M (V600E) - LOW LEVEL ,NO LOSS,0,P,3C,3C,pT4a,N2,Mx,A/C,Mod (focally poor),Y,At peitoneum,Y,Venous and Lymphatic,N,N
+271,1,1000,1,71,M,rectosigmoid,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,-,,-,,-,-
+272,0,Alive,,66,F,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4a,N1,,A/C,Well,Y,-,N,,-,-
+273,0,Alive,,70,F,ascending colon,ascending colon,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,1.1mm,N,,-,-
+274,0,Alive,,39,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,ypT2,N1,,A/C,Mod,N,-,Y,Venous,N,Y
+275,0,Alive,,53,F,transverse colon,transverse colon,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C (medullary features),Poor,N,0.15mm,Y,Lymphatic and venous,-,-
+276,1,302,1,61,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C (mucinous),Poor,Y,0mm,Y,Venous,-,-
+277,0,Alive,,70,M,ascending colon,ascending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Poor,N,2mm,Y,Venous,-,-
+278,0,Alive,,74,M,hepatic flexure,hepatic flexure,WT,WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,2,2B,pT4a,N0,,A/C (mucinous),Mod,N,2mm,N,,-,-
+281,0,Alive,,60,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,ypT3,ypN1,,A/C,Mod,N,4mm,Y,Venous,-,-
+282,0,Alive,,79,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod (foci of poor),Not identified,6mm,Y,"Intramural venous, extramural lymphatic",-,-
+284,0,Alive,,68,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,Not identified,0.4mm,Y,Venous,-,-
+285,0,Alive,,69,M,ascending colon,ascending colon,M (G12V),WT,WT,M (G12V),WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,4.4mm,Not identified,,-,-
+286,0,Alive,,75,M,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,2.7mm,Y,Venous,-,-
+287,1,209,,87,M,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (focally mucinous),Mod,N,Not measured,N,,N,N
+288,0,Alive,,61,M,lower rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,4mm,Y,Venous,N,N
+290,1,505,1,71,M,ascending colon,ascending colon,WT,WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,Pt3,N1,,A/C,Poor,N,0.5mm,Y,Venous,-,-
+291,1,309,1,82,M,rectosigmoid,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT4b,N1,M1,A/C (Mucinous),Poor,Y,0mm,Y,Extramural venous and lymphatic,-,-
+293,0,Alive,,75,F,sigmoid colon,sigmoid colon,M (G12D),WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,"Mod (areas of mucinous, areas of poor)",N,4mm,N,,-,-
+294,1,713,,52,F,ascending colon,ascending colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,"A/C (mucinous, predominantly signet ring)",Poor,Y,0mm,Y,Venous,-,-
+297,0,Alive,,60,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Well,N,2.5mm,N,,-,-
+298,0,Alive,,77,F,caecum,caecum,M (G12S),WT,FAIL,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.7mm,N,Intramural venous,-,-
+299,0,Alive,,60,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,Below reflection,N,,-,-
+300,1,947,,64,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.5mm,Y,Intra and extramural venous ,-,-
+301,1,559,1,72,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Mod,Y,-,Y,Lymphatic and venous,-,-
+302,1,1043,1,64,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C (focally mucinous),Mod,N,-,Y,Venous,-,-
+303,1,324,,80,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,Not assessed,Not identified,,N,N
+305,1,689,1,66,F,ascending colon,ascending colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,M1,A/C,Mod,N,0.3mm,N,,-,-
+306,0,Alive,,50,F,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (mucinous component),Poor,N,15mm,N,,Y,N
+308,0,Alive,,61,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>5mm,Y,Lymphatic and intramural venous,Y,N
+309,1,542,,71,F,ascending colon,ascending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,3mm,Not present,,-,-
+311,0,Alive,,67,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,Less than 1mm,N,,-,-
+312,0,Alive,,52,F,sigmoid colon,sigmoid colon,M (G12D),WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,3C,3C,pT4a,N2,,A/C,Mod,Y,-,Y,Lymphatic and venous,-,-
+314,0,Alive,,81,M,descending colon,descending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod (mucinous areas and occasional signet),N,0.3mm,N,,-,-
+315,1,399,1,53,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Poor,Y,0mm,Y,Lymphatic and venous,-,-
+316,1,952,,66,M,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.3mm,N,,-,-
+318,0,Alive,,66,M,lower rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,5mm,N,,N,N
+319,0,Alive,,72,M,descending colon,descending colon,WT,WT,FAIL,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,1,1,pT2,N0,,A/C,Mod,N,0.9mm,N,,-,-
+321,1,1417,1,69,M,sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm (on surface),Y,,-,-
+324,0,Alive,,61,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2B,pT4,N0,,A/C,Mod,Y,-,N,,-,-
+325,0,Alive,,57,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,Y,Venous and lymphatic,-,-
+326,1,196,,97,F,ascending colon,ascending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C (focally mucinous),Well,Y,0mm,N,Intramural venous invasion present,-,-
+327,0,Alive,,50,M,lower rectum,rectum,WT,WT,FAIL,WT,WT,FAIL,NO LOSS,0,P,1,1,pT2,N0,,A/C,Poor,N,Not assessed,N,,Y,N
+329,0,Alive,,83,M,lower rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,-,-,-,,N,N
+330,0,Alive,,66,M,upper rectum,rectum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,4,4,pT3,N0,M1,A/C,Mod,N,3mm,N,,N,N
+331,1,134,1,55,F,rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT4b,N2,M1,A/C (Mucinous),Poor (focal signet ring cell morph),N,-,Y,Lymphatic and Venous,N,N
+332,1,18,,82,F,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,4,4,pT4b,N2,M1,A/C (Mucinous),Mod to Poor,Y,0mm,Y,Lymphatic and Venous,-,-
+333,1,1073,,88,M,caecum/ascending colon,caecum,M (G12V),WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C (focally mucinous),Mod,Y,0mm,N,,-,-
+335,0,Alive,,86,M,rectum,rectum,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,-,N,Intramural venous,N,N
+336,1,200,1,54,M,splenic flexure,splenic flexure,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Extramural venous,-,-
+337,0,Alive,,78,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,,N,,N,N
+338,1,34,,68,M,caecum,caecum,WT,M (Q61H),WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,0.9mm,Y,Venous and intramural lymphatic,-,-
+339,1,643,,79,M,ascending colon,ascending colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,2.8mm,Y,venous,-,-
+341,0,Alive,,84,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod (some mucinous differentiation),N,5mm,N,,-,-
+342,1,805,1,39,M,caecum,caecum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N2,M1,A/C,Mod,N,6.5mm,N,Submucosal lymphatic invasion,-,-
+343,0,Alive,,76,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C,Mod,N,6mm,N,,-,-
+344,1,73,1,79,F,sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N1,cM1 (liver),A/C,Poor,N,1.2mm,Y,Venous,-,-
+346,0,Alive,,71,F,rectum,rectum,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C (mucinous),Mod,N,1.2mm,Y,Venous,Y,N
+347,1,1801,,74,F,caecum/ascending colon,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C (mucinous),Poor,N,0.01mm,N,Intramural venous,-,-
+350,0,Alive,,80,F,rectum,rectum,M (G12A),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,8mm,N,Intramural venous,N,N
+351,0,Alive,,71,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>5mm,N,,-,-
+352,1,78,1,74,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N0,M1,A/C,Mod,N,1.2mm,Y,Venous,-,-
+353,0,Alive,,69,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>5mm,N,,-,-
+355,1,20,1,75,F,upper rectum/sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT4b,N2,M1,A/C,Poor,Y,0mm,Y,Lymphatic and venous,N,N
+357,0,Alive,,63,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,7mm,N,,Y,N
+360,1,1195,,86,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Poor,Y,0mm,N,,-,-
+361,1,1536,,63,M,rectum,rectum,WT,WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,-,Y,Extramural lymphatic and intramural venous,N,N
+362,0,Alive,,55,M,ascending colon,ascending colon,WT,M (Q61H),WT,M (G12A),WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,N,,-,-
+363,1,595,,71,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C,Mod,N,5mm,N,Intramural venous,-,-
+364,0,Alive,,42,M,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,3mm,Y,Extramural lymphatic and intramural venous,-,-
+366,0,Alive,,39,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,Not measured,Not identified,,-,-
+368,1,76,1,80,F,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,4,4,pT3,N2,M1,A/C (Medullary),Poor,N,0.2mm,N,,-,-
+372,1,1125,1,78,M,caecum/ileocaecal valve,caecum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod,Y,0mm,Y,Lymphatic and venous,-,-
+373,0,Alive,,70,M,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT4b,N0,,A/C,Mod,??,-,N,,-,-
+374,1,663,,69,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod-Poor,N,35mm,N,,Y,N
+375,0,Alive,,71,M,hepatic flexure,hepatic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,2mm,N,,-,-
+377,0,Alive,,65,F,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,1,1,pT1,N0,,A/C (mucinous),Poor,N,3mm,N,,-,-
+378,0,Alive,,66,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,pN2,MX,A/C,Mod-Poor,-,>10mm,Y,"extra venous, perineural invasion also",-,-
+379,0,Alive,,69,M,distal sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,0.4mm,Y,Venous,-,-
+380,0,Alive,,79,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,2mm,Not identified,,-,-
+381,1,2297,,85,M,rectum,rectum,WT,WT,M (K117N),WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (focally mucinous),Mod,N,1mm,Y,Venous,N,N
+382,1,1191,1,63,M,rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (residual),Mod,N,-,N,,N,N
+384,1,1584,,86,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Venous,-,-
+386,0,Alive,,55,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.2mm,N,Intramural venous,-,-
+387,1,962,,87,F,splenic flexure,splenic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.7mm,N,,-,-
+389,0,Alive,,80,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,1.5mm,Y,Venous,-,-
+391,1,509,1,84,M,rectosigmoid,rectum,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Well,N,Not measured,Y,Venous,Y,N
+392,1,947,,81,M,sigmoid colon,sigmoid colon,WT,WT,FAIL,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,pN0,,A/C,Mod,N,>5mm,Not identified,,-,-
+393,0,Alive,,59,M,splenic flexure,splenic flexure,M (G12A),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1.2mm,Y,,-,-
+394,0,Alive,,49,M,distal sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.5mm,Y,,-,-
+395,0,Alive,,78,M,rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,N,Not assessed,N,,-,Y
+396,0,Alive,,75,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,<2mm,N,,-,-
+397,1,0,1,91,F,caecum/ascending colon,caecum,WT,WT,WT,WT,WT,M (D584N) - LOW LEVEL ,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,>1mm,N,,-,-
+398,1,504,,66,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,ypT3,N0,M1,A/C,Mod,,,Y,Venous,N,Y
+399,0,Alive,,82,F,caecum/ascending colon,caecum,WT,M (Q61L),WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+401,1,136,1,58,M,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Poor,Y,0MM,Y,Lymphatic and Venous,-,-
+402,1,1851,,77,M,caecum/small bowel,caecum,M (G12D),WT,WT,WT,WT,WT,PMS2 LOSS,1,P,2,2B,pT4b,N0,,A/C,"Mod (areas of poor differentiation, focal mucinous differentiation)",Y,0mm,Y,Venous,-,-
+403,0,Alive,,33,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<1mm,Y,Venous,-,-
+404,0,Alive,,83,M,distal sigmoid colon,sigmoid colon,WT,WT,WT,WT,M (Q61K),WT,NO LOSS,0,P,1,1,pT1,N0,,A/C,Mod,N,6mm,N,,-,-
+405,1,1804,1,69,M,rectum,rectum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,13mm,N,,Y,N
+406,1,620,1,86,F,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,pN2,,A/C,Poor,Y,0mm,Y,Venous,-,-
+407,0,Alive,,75,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,-,N,Intramural venous,Y,N
+408,1,1139,1,75,M,rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,Not identified,,Not identified,,-,-
+409,1,764,,57,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,N,,-,-
+410,0,Alive,,58,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C (Mucinous),Well,-,-,N,,N,N
+413,1,1289,1,76,M,rectum,rectum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Poor,N,35mm,N,,Y,N
+414,1,1328,1,75,F,rectosigmoid,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,MX,A/C,Poor,N,8mm,N,,-,-
+415,0,Alive,,68,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,-,Y,Venous,Y,N
+416,1,754,1,69,M,caecum,caecum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod,Y,-,Y,"Lymphatic and venous, extensive perineural infiltration alos",-,-
+417,0,Alive,,33,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,35mm,Y,Lymphatic and venous,N,N
+418,0,Alive,,54,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.15mm,N,,N,N
+419,0,Alive,,59,F,caecum,caecum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C (serrated morph and mucinous component),Mod,Y,-,N,,-,-
+421,0,Alive,,86,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,>5mm,Y,Venous,-,-
+422,0,Alive,,53,M,lower rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,53mm,Not identified,,Y,N
+423,1,1863,,78,F,lower rectum,rectum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,Not measured,N,,N,N
+424,0,Alive,,75,M,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1.2mm,N,,-,-
+425,0,Alive,,52,F,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,-,N,,Y,N
+426,0,Alive,,67,M,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,-,-
+428,0,Alive,,50,M,proximal transverse colon,transverse colon,WT,WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Poor,N,0.2mm,Y,Venous,-,-
+429,1,388,1,83,M,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Venous,-,-
+430,1,Err:502,1,74,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4a,N0,,A/C,Mod,Y,0mm,N,,-,-
+431,0,Alive,,71,F,rectum,rectum,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,1.1mm,N,,N,N
+433,0,Alive,,69,F,caecum,caecum,WT,WT,WT,WT,M (Q61R),WT,NO LOSS,0,P,1,1,pT1,N0,,A/C,Mod,N,>5mm,N,,-,-
+435,1,331,1,68,F,descending colon,descending colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Poor,Y,0mm,Y,Lymphatic and venous,-,-
+436,0,Alive,,77,M,rectosigmoid,rectum,M (G12D),WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,2,2A,pT3,N0,,A/C,Mod,N,4mm,N,,-,-
+437,0,Alive,,63,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,5mm,N,,-,-
+438,0,Alive,,88,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,3mm,N,,-,-
+439,1,891,1,82,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,N,,-,-
+440,0,Alive,,59,F,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C (Mucinous),Mod,N,1mm,Probable,,N,N
+441,0,Alive,,55,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C,Mod,N,1.6mm,N,,-,-
+443,1,1752,1,44,F,right hemicolon,ascending colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Well,Y,-,N,,-,-
+445,0,Alive,,82,M,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (Mucinous),Mod,N,1.8mm,N,,-,-
+447,0,Alive,,48,F,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N0,M1,A/C,Poor,N,7mm,Y,Lymphatic and venous,Y,N
+448,0,Alive,,58,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3,3B,pT3,N1,,A/C (mucinous),Well,N,1.2mm,N,,-,-
+449,1,186,1,59,M,ileocolic resection??,caecum,WT,WT,WT,M (codon 14),WT,WT,NO LOSS,0,P,,,,,,,,,,,,,
+450,0,Alive,,67,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C,Mod,N,Well clear,N,,-,-
+451,1,1546,,83,F,sigmoid colon,sigmoid colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,5mm,Y,Venous,-,-
+452,0,Alive,,74,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod (areas of focal poor),N,-,Y,Lymphatic and venous,-,-
+453,0,Alive,,71,M,splenic flexure,splenic flexure,WT,WT,WT,M (G12D),WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.9mm,N,,-,-
+454,0,Alive,,58,F,distal sigmoid,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Lymphatic and venous,-,-
+455,0,Alive,,52,F,rectum,rectum,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C,Mod,Y,0mm,Y,Venous,Y,N
+456,0,Alive,,69,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1.2mm,N,,-,-
+459,1,912,1,66,M,sigmoid colon,sigmoid colon,M (G12D),WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,Y,Venous,-,-
+460,1,1188,,61,F,caecum,caecum,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,3,3B,pT4,N1,,A/C,Mod,Y,,Y,,-,-
+461,0,Alive,,81,F,ascending colon,ascending colon,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,2mm,N,Intramural venous,-,-
+462,0,Alive,,52,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<1mm,Y,Venous,-,-
+465,0,Alive,,83,F,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,0.8mm,Y,Venous,-,-
+468,0,Alive,,67,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,-,N,Intramural venous,Y,N
+469,1,1452,,88,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,M (V600E),"MLH1, PMS2 LOSS",1,P,3C,3C,pT4a,N2,,A/C,Mod to Poor (sig areas of poor),??,??,Y,Extramural venous and supiscious focus of extramural lymphatic ,-,-
+470,0,Alive,,85,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Mod,Not directly visualised but presumed yes,,Y,Venous,-,-
+471,1,1603,,82,M,rectum,rectum,M (G12V),WT,FAIL,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,1mm,N,,-,-
+472,0,Alive,,71,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Poor,N,1.6mm,N,,Y,N
+473,1,1074,1,80,M,upper rectum,rectum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C (mucinous component),Mod,N,0.2mm,Y,Venous,N,N
+474,1,199,1,67,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,N,-,N,,N,Y
+475,1,1466,1,39,F,rectum,rectum,WT,WT,FAIL,WT,FAIL,M (V600E),NO LOSS,0,P,4,4,pT4b,N2,M1,A/C,Mod,Y,0mm,Y,Venous and lymphatic,-,-
+476,0,Alive,,58,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT1,N0,,A/C,Poor,N,Not measured,N,,N,N
+477,1,1443,,87,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4,N1,,A/C,Mod,Y,0mm,Y,Venous and lymphatic,-,-
+478,1,1866,1,55,M,lower rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,ypT3,ypN2,,A/C,Mod,N,>10mm,Y,Intra and extramural venous ,N,Y
+479,0,Alive,,59,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,MX,A/C,Mod,N,1mm,Y,,-,-
+480,1,1567,1,57,F,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Well,Y,0mm,N,,-,-
+481,0,Alive,,62,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,MX,A/C,Mod,N,0.2mm,Y,Venous,-,-
+482,0,Alive,,83,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,,,,N,N
+483,1,730,,92,F,sigmoid colon,sigmoid colon,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,-,0.2mm,N,focal perineural infiltration also seen,-,-
+484,0,Alive,,77,F,distal sigmoid colon,sigmoid colon,WT,WT,WT,M (G12D),WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Well,N,2.5mm,Not identified,,-,Not specifed
+486,0,Alive,,81,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,>4mm,Y,Venous,-,-
+487,0,Alive,,73,M,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,5mm,N,,-,-
+488,0,Alive,,65,M,sigmoid,sigmoid colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.6mm,N,,-,-
+489,0,Alive,,76,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,PMS2 LOSS,1,P,3,3B,pT3,N1,,A/C,Mod,N,1mm,Y,,N,N
+490,1,864,,49,M,rectosigmoid junction,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Well,Y,0mm,N,,-,-
+491,0,Alive,,66,F,descending colon,descending colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,-,N,,-,-
+492,0,Alive,,50,F,transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,Mx,A/C,Mod,N,Not assessed,N,S mucosal vascular invasion but no extramural vascular invasion,-,-
+493,1,1319,1,59,M,,,WT,WT,WT,WT,WT,M (V600E),NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,<1mm,Y,Lymphatic and venous,N,N
+494,1,1461,1,64,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Mod,N,Not applicable,Y,Extramural venous,-,-
+495,0,Alive,,80,M,rectum,rectum,WT,WT,WT,WT,WT,M (S605G) - LOW LEVEL ,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,Clear but not measured,N,,-,-
+496,0,Alive,,71,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,20mm,N,,Y,N
+498,1,157,,61,F,appendix,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Poor,Y,0mm,Y,Venous,-,-
+499,1,874,,76,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod (foci of poor at invasive front),Y,-,Y,Lymphatic and venous,-,-
+500,0,Alive,,71,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,3mm,N,Intramural venous,-,-
+502,1,984,1,72,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,-,N,,-,-
+504,1,624,1,66,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT3,N0,M1,A/C,Mod,N,0.15mm,Y,Venous,-,-
+505,1,1256,,74,M,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C (focally mucinous in <10%),Mod,N,2mm,N,,-,-
+506,0,Alive,,55,F,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,-,N,,Y,N
+507,1,1859,,75,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod (papillary architecture and mucinous differentiation),N,0.5mm,N,,-,-
+509,0,Alive,,73,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod (predominantly),-,0.1mm,N,,-,-
+510,0,Alive,,79,M,caecum,caecum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,3mm,N,,-,-
+511,1,886,,75,M,lower rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Well,N,-,N,,N,N
+514,0,Alive,,74,M,mid transverse colon,transverse colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,1.1mm,N,Intramural venous,-,-
+516,1,1409,,81,M,hepatic flexure,hepatic flexure,WT,WT,WT,M (G12D),WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,>5mm,N,Intramural venous invasion present,-,-
+517,1,1156,,75,F,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C (Mucinous),Mod,N,<1mm,N,,-,-
+518,0,Alive,,71,F,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,,Y,Venous,Y,N
+519,0,Alive,,77,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,ypT3,N0,,A/C,Mod,N,-,Y,Venous,N,Y
+520,0,Alive,,83,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,"MLH1, PMS2 LOSS",1,P,3C,3C,pT3,N2,,A/C,Mod,N,<1mm,N,,-,-
+521,0,Alive,,79,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,>5mm,N,,-,-
+522,0,Alive,,50,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,-,Y,Venous,-,-
+523,1,702,,75,M,ascending colon,ascending colon,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Mod,Y,-,N,,-,-
+524,0,Alive,,48,F,rectum,rectum,WT,M (Q61H),WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod to Poor,Y,0mm,Y,Venous,N,N
+526,1,1821,1,56,M,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,>10mm,N,,-,-
+528,0,Alive,,78,M,caecum,caecum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.7mm,Y,,Not specifed,-
+529,0,Alive,,68,F,sigmoid colon,sigmoid colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod,Y,-,Y,Venous,-,-
+531,1,777,1,73,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,1mm,Not identified,,N,N
+532,0,Alive,,40,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.2mm,N,,-,-
+533,1,633,1,56,F,caecum/ascending colon,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4,N2,,A/C,Mod,Y,0mm,Y,Venous,-,-
+534,0,Alive,,76,M,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,2.5mm,N,,-,-
+535,0,Alive,,58,M,sigmoid colon,sigmoid colon,WT,WT,FAIL,WT,FAIL,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,-,<0.5mm,Y,Extra and intramural venous,-,-
+536,0,Alive,,49,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,2mm,N,,-,-
+537,0,Alive,,85,M,caecum,caecum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Mod,N,0.1mm,Y,Venous,-,-
+539,1,287,1,55,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Poor,N,0.3mm,Y,Lymphatic and venous and intramural venous,-,-
+541,0,Alive,,38,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,<0.2mm,N,,-,-
+542,1,1354,1,59,F,upper rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Poor,Y,0mm,Y,Venous,N,N
+543,0,Alive,,85,M,ascending colon,ascending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Lymphatic and intramural venous,-,-
+544,0,Alive,,66,M,rectum,rectum,WT,WT,WT,WT,M (Q61L),WT,NO LOSS,0,P,2,2B,pT4,N0,,A/C,Mod,N,0.15mm,Not identified,,N,N
+548,1,1722,,81,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,PMS2 LOSS,1,P,2,2A,pT3,N0,,A/C,Mod,N?,-,N,,-,-
+549,1,596,,75,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,About 5mm,N,,-,-
+550,0,Alive,,52,F,rectum,rectum,WT,WT,WT,WT,WT,M (R603Q) - LOW LEVEL),NO LOSS,0,P,2,2A,pT3,N0,,A/C,Poor,Not identified,6mm,Not identified,,Y,N
+551,1,1581,1,59,F,sigmoid colon,sigmoid colon,WT,WT,FAIL,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,N,,-,-
+552,0,Alive,,60,M,ascending colon,ascending colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C (Mucinous),Mod,N,0.1mm,N,,-,-
+553,1,1104,1,69,F,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,4,4,pT,N0,M1,A/C,Well,N,0.6mm,N,,-,-
+554,0,Alive,,70,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,ypT3,ypN2,,A/C,Mod,N,Not measured,N,,Y,N
+556,0,Alive,,65,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,M (V600E) - LOW LEVEL ,"MLH1, PMS2 LOSS",1,P,2,2B,pT4a,N0,,A/C,Mod,N,0.5mm,Not identified,,-,-
+557,0,Alive,,49,F,lower descending colon,descending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod to Poor,N,0.3mm,Y,Extra and intramural venous,-,-
+558,1,668,,74,M,distal sigmoid colon,sigmoid colon,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,Y,Venous,-,Not specifed
+560,0,Alive,,76,M,caecum,caecum,M (G12V),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C (mucinous),Mod,Y,,Not identified,,-,-
+563,0,Alive,,55,M,rectosigmoid,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2B,pT4b,N0,,A/C,Mod,Y,0mm,Y,Venous,-,-
+564,1,1036,1,62,M,sigmoid colon,sigmoid colon,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C (Mucinous),Mod,N,6mm,Y,Venous and lymphatic,-,-
+565,1,1224,,56,M,upper rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Well,N,5mm,N,,N,N
+567,0,Alive,,64,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Well,N,-,Y,Extra and intramural venous,Y,N
+568,0,Alive,,68,M,splenic flexure,splenic flexure,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,Mx,A/C,Mod,N,4mm,N,,-,-
+569,1,442,,79,M,caecum,caecum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.3mm,N,,-,-
+570,0,Alive,,65,F,caecum,caecum,M (G13D),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Focally poor but overall mod,N,-,N,,-,-
+571,0,Alive,,84,F,rectum,rectum,M (G12D),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT4b,N1,,A/C,Mod,Y,0mm,N,,N,N
+572,0,Alive,,78,F,caecum,caecum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,0.5mm,N,,-,-
+573,0,Alive,,76,F,splenic flexure,splenic flexure,WT,M (Q61L),WT,WT,WT,WT,NO LOSS,0,P,3,3A,pT2,N1,,A/C (mucinous),Well,N,2.5mm,Not identified,,-,Not specifed
+574,0,Alive,,74,F,caecum,caecum,WT,WT,WT,WT,M (Q61R),WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,N,>5mm,N,,-,-
+575,1,159,1,95,F,ascending colon,ascending colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,pT3,N2,,A/C,Poor,N,0.1mm,Y,Venous and lymphatic,-,-
+576,0,Alive,,46,M,rectum,rectum,M (G12S),WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT1,N0,,A/C,Mod,N,4.5mm,N,"Intramural present, extramural not identified",-,-
+578,0,Alive,,49,F,rectum,rectum,M (G12C),WT,WT,WT,WT,WT,NO LOSS,0,P,3,3B,pT3,N1,,A/C,Mod,N,8mm,N,,-,N
+580,1,1148,1,37,M,descending colon,descending colon,WT,WT,FAIL,M (G12A),WT,WT,NO LOSS,0,P,3C,3C,pT4b,N2,,A/C,Mod,Y,0mm,Y,Venous,-,-
+581,1,1693,1,72,M,rectum,rectum,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,3C,3C,ypT3,ypN2,,A/C,Mod,N,0.1mm,Y,Extra and intramural venous,N,Y
+582,1,1296,1,58,M,hepatic flexure,hepatic flexure,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,1,1,pT2,N0,,A/C,Mod,N,2mm,N,,-,-
+583,0,Alive,,87,F,sigmoid colon,sigmoid colon,WT,WT,WT,WT,WT,WT,NO LOSS,0,P,2,2A,pT3,N0,,A/C,Mod,-,1mm,N,Intramural venous,-,-
